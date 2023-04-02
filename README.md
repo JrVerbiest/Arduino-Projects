@@ -12,4 +12,6 @@ MicroMod development platform: [SparkFun MicroMod nRF52840 Processor](https://ww
 
 ## nRF52840 - CO2 (SCD30)
 
-MicroMod development platform: [SparkFun MicroMod nRF52840 Processor](https://www.sparkfun.com/products/16984) & [SparkFun MicroMod Data Logging Carrier Board](https://www.sparkfun.com/products/16829), sensor [CO2 and RH/T Sensor - SCD30](https://www.sparkfun.com/products/15112)
+MicroMod development platform: [SparkFun MicroMod nRF52840 Processor](https://www.sparkfun.com/products/16984) & [SparkFun MicroMod Data Logging Carrier Board](https://www.sparkfun.com/products/16829), sensor [CO2 and RH/T Sensor - SCD30](https://www.sparkfun.com/products/15112)<br>
+
+Tutorial: [🌐 Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
